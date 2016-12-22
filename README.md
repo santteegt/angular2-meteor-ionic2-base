@@ -5,11 +5,14 @@
 
 ## Usage
 
-Since Meteor v1.4 you can use one command to create a working Angular2 app based on this boilerplate:
+```
+git clone https://github.com/santteegt/angular2-meteor-ionic2-base.git
+cd angular2-meteor-ionic2-base
+meteor add-platform android
+meteor add-platform ios
 
 ```
-meteor create --example angular2-boilerplate
-```
+
 
 ## NPM Scripts
 

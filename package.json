@@ -1,7 +1,7 @@
 {
-  "name": "simple-ride-app",
-  "version": "0.0.1",
-  "description": "Simple Ride Platform",
+  "name": "angular2-meteor-ionic2-base",
+  "version": "1.0.0",
+  "description": "SAngular2-Meteor-Ionic2 Boilerplate",
   "author": "@santteegt hernangt12re3@gmail.com",
   "contributors": [
     {
