@@ -45,6 +45,7 @@
     "angular2-meteor-tests-polyfills": "0.0.2",
     "babel-runtime": "^6.18.0",
     "ionic-angular": "^2.0.0-rc.4",
+    "ionic-native": "^2.2.12",
     "ionic-selector": "0.0.2",
     "ionicons": "^3.0.0",
     "meteor-rxjs": "0.4.5",
